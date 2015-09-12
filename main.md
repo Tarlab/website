@@ -6,7 +6,7 @@ Tämänhetkinen osoitteemme on Valtatie 67, Oulu. Olemme vuokralla Offcoden kell
 
 Tila koostuu yhdestä huoneesta, jossa on sohvia, työpöytiä, kolveja, oskilloskooppeja, labravirtalähteitä, perustyökaluja ja toki langaton verkkoyhteys. Kahvinkeitin ja jääkaapista pientä maksua vastaan löytyvät virvokkeet auttaa jaksamaan.
 
-![Modattu bussinäyttö labilla](http://jkry.org/~otter/markdown/images/tarlabftw.png)
+![Modattu bussinäyttö labilla](http://tarlab.fi/images/tarlabftw.png)
 
 Tarlab on ns. [hackerspace](http://hackerspaces.org) (tai suomeen paremmin taipuva hacklab), joita on perustettu ympäri maailmaa jo useita tuhansia. Tilaa pyörittävä Tarlab Oulu on voittoa tavoittelematon ja sitoutumaton rekisteröity yhdistys.
 
