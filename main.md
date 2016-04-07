@@ -61,6 +61,9 @@ Toimintaa tukemassa
 ===================
 
  - [Offcode](http://offcode.fi)
+ 
+ - Tukijaksi? Ota yhteyttä hallitukseen `hallitus AT tarlab.fi`
+
 
 
 ----------
