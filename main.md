@@ -4,7 +4,7 @@ Tämänhetkinen osoitteemme on Valtatie 67, Oulu. Olemme vuokralla Offcoden kell
 
 [Kartta](http://www.openstreetmap.org/?mlat=65.02556&amp;mlon=25.48520#map=18/65.02556/25.48520)
 
-Tila koostuu yhdestä huoneesta, jossa on sohvia, työpöytiä, 3D-tulostin, kolveja, oskilloskooppeja, labravirtalähteitä, perustyökaluja ja toki langaton verkkoyhteys. Kahvinkeitin ja jääkaapista pientä maksua vastaan löytyvät virvokkeet auttaa jaksamaan.
+Tila koostuu yhdestä huoneesta, jossa on sohvia, työpöytiä, 3D-tulostin (Prusa i3), kolveja, oskilloskooppeja, labravirtalähteitä, perustyökaluja ja toki langaton verkkoyhteys. Kahvinkeitin ja jääkaapista pientä maksua vastaan löytyvät virvokkeet auttaa jaksamaan.
 
 ![Modattu bussinäyttö labilla](http://tarlab.fi/images/tarlabftw.png)
 
