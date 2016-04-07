@@ -4,7 +4,7 @@ Tämänhetkinen osoitteemme on Valtatie 67, Oulu. Olemme vuokralla Offcoden kell
 
 [Kartta](http://www.openstreetmap.org/?mlat=65.02556&amp;mlon=25.48520#map=18/65.02556/25.48520)
 
-Tila koostuu yhdestä huoneesta, jossa on sohvia, työpöytiä, kolveja, oskilloskooppeja, labravirtalähteitä, perustyökaluja ja toki langaton verkkoyhteys. Kahvinkeitin ja jääkaapista pientä maksua vastaan löytyvät virvokkeet auttaa jaksamaan.
+Tila koostuu yhdestä huoneesta, jossa on sohvia, työpöytiä, 3D-tulostin, kolveja, oskilloskooppeja, labravirtalähteitä, perustyökaluja ja toki langaton verkkoyhteys. Kahvinkeitin ja jääkaapista pientä maksua vastaan löytyvät virvokkeet auttaa jaksamaan.
 
 ![Modattu bussinäyttö labilla](http://tarlab.fi/images/tarlabftw.png)
 
@@ -22,6 +22,9 @@ Lisätietoa toiminnasta löytyy:
  - [IRCnetistä](http://fi.wikipedia.org/wiki/IRC) kanavalta [#Tarlab](http://mibbit.com/?channel=%23tarlab&amp;server=ircnet.eversible.com)
  - Twitteristä [@TarlabOulu](http://twitter.com/TarlabOulu)
  - [Facebookista](https://www.facebook.com/TarlabOulu)
+
+Hallituksen saa kiinni osoitteesta:
+ `hallitus AT tarlab.fi`
 
  <br>
 
@@ -49,20 +52,15 @@ Yhdistyksen varsinaiseksi jäseneksi voi liittyä jokainen yksityinen henkilö, 
 Jäsenmaksut
 ===========
 
- - Jäsenmaksu vuodeksi ilman avainta 20e
- - Jäsenmaksu vuodeksi avaimella 220e
- 
- Jos avaimen hankkii kesken vuotta, puolen vuoden avainmaksu on 120e
- 
+ - Jäsenmaksu vuodeksi ilman avainta 40e
+ - Avainmaksu vuodeksi 110e (yht. 150e)
+  
  <br>
 
 Toimintaa tukemassa
 ===================
 
  - [Offcode](http://offcode.fi)
- - [Codenomicon](http://www.codenomicon.com)
- - [OUSPG / University of Oulu](https://www.ee.oulu.fi/research/ouspg/)
- - [Rapico](http://www.rapico.com/)
 
 
 ----------
