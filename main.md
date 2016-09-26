@@ -62,7 +62,7 @@ Toimintaa tukemassa
 ===================
 
  - [Offcode](http://offcode.fi)
- -Netplaza
+ - [Netplaza](http://netplaza.fi)
  
  - Tukijaksi? Ota yhteyttä hallitukseen `hallitus AT tarlab.fi`
 
