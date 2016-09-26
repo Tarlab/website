@@ -2,7 +2,7 @@ Tarlab on Oulussa toimiva yhteisö joka tuo yhteen tekniikasta, rakentelusta ja 
 
 Tämänhetkinen osoitteemme on Valtatie 67, Oulu. Olemme vuokralla Offcoden kellaritiloissa. Vierailijoilla on lupa käyttää viereisen päiväkodin edessä olevia Offcoden parkkipaikkoja.
 
-[Kartta](http://www.openstreetmap.org/?mlat=65.02556&amp;mlon=25.48520#map=18/65.02556/25.48520) <br>
+[Kartta](http://www.openstreetmap.org/?mlat=65.02556&amp;mlon=25.48520#map=18/65.02556/25.48520)
 [Opas](http://tarlab.fi/images/entry.jpg)
 
 Tila koostuu yhdestä huoneesta, jossa on sohvia, työpöytiä, 3D-tulostin (Prusa i3), kolveja, oskilloskooppeja, labravirtalähteitä, perustyökaluja ja toki langaton verkkoyhteys. Kahvinkeitin ja jääkaapista pientä maksua vastaan löytyvät virvokkeet auttaa jaksamaan.
@@ -62,6 +62,7 @@ Toimintaa tukemassa
 ===================
 
  - [Offcode](http://offcode.fi)
+ -Netplaza
  
  - Tukijaksi? Ota yhteyttä hallitukseen `hallitus AT tarlab.fi`
 
@@ -73,4 +74,7 @@ Toimintaa tukemassa
 Korjattavaa?
 ------------
 Tämä teksti generoidaan [GitHubista](https://github.com/Tarlab/website). Korjaus- ja parannusehdotuksia otetaan vastaan.
+
+
+![Netplaza](http://www.netplaza.fi/logot/netplaza_230_71.gif)
 
