@@ -25,6 +25,7 @@ Lisätietoa toiminnasta löytyy:
  - Twitteristä [@TarlabOulu](http://twitter.com/TarlabOulu)
  - [Facebookista](https://www.facebook.com/TarlabOulu)
  - [Flickeristä] (https://www.flickr.com/groups/tarlab/)
+ - [GitHubista] (https://github.com/Tarlab/)
 
 Hallituksen saa kiinni osoitteesta:
  `hallitus AT tarlab.fi`
