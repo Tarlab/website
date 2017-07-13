@@ -24,6 +24,7 @@ Lisätietoa toiminnasta löytyy:
  - [IRCnetistä](http://fi.wikipedia.org/wiki/IRC) kanavalta [#Tarlab](http://mibbit.com/?channel=%23tarlab&amp;server=ircnet.eversible.com)
  - Twitteristä [@TarlabOulu](http://twitter.com/TarlabOulu)
  - [Facebookista](https://www.facebook.com/TarlabOulu)
+ - [Flickeristä] (https://www.flickr.com/groups/tarlab/)
 
 Hallituksen saa kiinni osoitteesta:
  `hallitus AT tarlab.fi`
