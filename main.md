@@ -1,16 +1,14 @@
-Tarlab on Oulussa toimiva yhteisö joka tuo yhteen tekniikasta, rakentelusta ja askartelusta kiinnostuneita ihmisiä. Erilaisten projektien kanssa työskentelyn tueksi yhteisöllämme on Tuirassa tila jossa tapaamme säännöllisesti. 
+Tarlab on Oululainen yhteisö joka tuo yhteen tekniikasta, rakentelusta ja askartelusta kiinnostuneita ihmisiä. Toiminnan tueksi käytössä on Tuirassa sijaitseva tila.
 
-Tämänhetkinen osoitteemme on Valtatie 67, Oulu. Olemme vuokralla Offcoden kellaritiloissa. Vierailijoilla on lupa käyttää viereisen päiväkodin edessä olevia Offcoden parkkipaikkoja.
+Tämänhetkinen osoitteemme on Offcoden kellaritila osoitteessa [Valtatie 67](http://www.openstreetmap.org/?mlat=65.02556&amp;mlon=25.48520#map=18/65.02556/25.48520). Vierailijoilla on lupa käyttää viereisen päiväkodin edessä olevia Offcoden parkkipaikkoja.
 
-[Kartta](http://www.openstreetmap.org/?mlat=65.02556&amp;mlon=25.48520#map=18/65.02556/25.48520)
-<br>
-[Opas](http://tarlab.fi/images/entry.jpg)
+Koska ovikellomme varastettiin, sisäänpääsyyn on käytössä [koputusprotokolla](http://tarlab.fi/images/entry.jpg).
 
-Tila koostuu yhdestä huoneesta, jossa on sohvia, työpöytiä, 3D-tulostin (Prusa i3), kolveja, oskilloskooppeja, labravirtalähteitä, perustyökaluja ja toki langaton verkkoyhteys. Kahvinkeitin ja jääkaapista pientä maksua vastaan löytyvät virvokkeet auttaa jaksamaan.
+Tila koostuu yhdestä huoneesta, jossa on sohvia, työpöytiä, 3D-tulostin (Prusa i3), kolveja, oskilloskooppeja, perustyökaluja ja toki langaton verkko. Tarjolla on myös virvokkeita pientä maksua vastaan.
 
 ![Modattu bussinäyttö labilla](http://tarlab.fi/images/tarlabftw.png)
 
-Tarlab on ns. [hackerspace](http://hackerspaces.org) (tai suomeen paremmin taipuva hacklab), joita on perustettu ympäri maailmaa jo useita tuhansia. Tilaa pyörittävä Tarlab Oulu on voittoa tavoittelematon ja sitoutumaton rekisteröity yhdistys.
+Tarlab on ns. [hackerspace](http://hackerspaces.org) (tai suomeen paremmin taipuva [hacklab](http://hacklab.fi)), joita löytyy ympäri maailmaa ja jotka jakavat saman toiminta-ajatuksen. Tilaa pyörittävä Tarlab Oulu on voittoa tavoittelematon ja sitoutumaton rekisteröity yhdistys.
 
  <br>
 
@@ -36,7 +34,7 @@ Hallituksen saa kiinni osoitteesta:
 Jäseneksi
 =========
 
-Yhdistyksen varsinaiseksi jäseneksi voi liittyä jokainen yksityinen henkilö, joka haluaa edistää yhdistyksen tarkoitusta. Lähetä liittymissähköposti osoitteeseen `jaseneksi AT tarlab.fi` otsikolla 'Jäsenhakemus' tällä viestipohjalla:
+Yhdistyksen varsinaiseksi jäseneksi voi liittyä kuka vain. Lähetä jäsenyyshakemus osoitteeseen `jaseneksi AT tarlab.fi` otsikolla 'Jäsenhakemus' tällä viestipohjalla:
 
  <br>
     
@@ -56,8 +54,8 @@ Yhdistyksen varsinaiseksi jäseneksi voi liittyä jokainen yksityinen henkilö, 
 Jäsenmaksut
 ===========
 
- - Jäsenmaksu vuodeksi ilman avainta 40e
- - Avainmaksu vuodeksi 110e (yht. 150e)
+ - Jäsenmaksu ilman avainta 40e/vuosi
+ - Avainmaksu 110e/vuosi (avain ja jäsenyys yhteensä siis 150e/vuosi)
   
  <br>
 
