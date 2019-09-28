@@ -36,7 +36,7 @@ Jäseneksi
 =========
 
 Yhdistys ei ole mitään ilman jäseniä. Yhdistyksen varsinaiseksi jäseneksi voi liittyä kuka vain. <br>
-[Jäsenyyshakemus](http://tarlab.fi/join/) 
+[Jäsenhakemus](http://tarlab.fi/join/) 
 
  <br>
 
