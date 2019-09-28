@@ -18,8 +18,9 @@ Lisätietoa
 
 Lisätietoa toiminnasta löytyy:
 
- - [Wikistä](https://jkry.org/ouluhack/)
+ - [Telegramista](https://t.me/tarlab)
  - [IRCnetistä](http://fi.wikipedia.org/wiki/IRC) kanavalta [#Tarlab](http://mibbit.com/?channel=%23tarlab&amp;server=ircnet.eversible.com)
+ - [Wikistä](https://jkry.org/ouluhack/)
  - Twitteristä [@TarlabOulu](http://twitter.com/TarlabOulu)
  - [Facebookista](https://www.facebook.com/TarlabOulu)
  - [Flickeristä](https://www.flickr.com/groups/tarlab/)
@@ -34,20 +35,8 @@ Hallituksen saa kiinni osoitteesta:
 Jäseneksi
 =========
 
-Yhdistyksen varsinaiseksi jäseneksi voi liittyä kuka vain. Lähetä jäsenyyshakemus osoitteeseen `jaseneksi AT tarlab.fi` otsikolla 'Jäsenhakemus' tällä viestipohjalla:
-
- <br>
-    
-    Haluaisin liittyä Tarlab Oulu ry jäseneksi. 
-    
-     - Käyttäjätunnus/nimimerkki:  
-     - Nimi (ilmoita kaikki etunimet):  
-     - e-mail: 
-     - puhelinnumero: 
-     - Kotipaikka:
-     - Mistä/keneltä kuulit Tarlabista:
-     
-  Tämän jälkeen hallitus käsittelee jäsenhakemuksesi.
+Yhdistys ei ole mitään ilman jäseniä. Yhdistyksen varsinaiseksi jäseneksi voi liittyä kuka vain. <br>
+[Jäsenyyshakemus](http://tarlab.fi/join/) 
 
  <br>
 
