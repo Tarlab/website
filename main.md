@@ -12,6 +12,21 @@ Tarlab on ns. [hackerspace](http://hackerspaces.org) (tai suomeen paremmin taipu
 
  <br>
 
+Jäseneksi
+=========
+
+Yhdistys ei ole mitään ilman jäseniä. Yhdistyksen varsinaiseksi jäseneksi voi liittyä kuka vain. <br>
+[Jäsenhakemus](http://tarlab.fi/join/) 
+
+ <br>
+
+Jäsenmaksut
+===========
+
+ - Jäsenmaksu ilman avainta 40e/vuosi
+ - Avainmaksu 110e/vuosi (avain ja jäsenyys yhteensä siis 150e/vuosi)
+  
+ <br>
 
 Lisätietoa
 ==========
@@ -29,23 +44,6 @@ Lisätietoa toiminnasta löytyy:
 Hallituksen saa kiinni osoitteesta:
  `hallitus AT tarlab.fi`
 
- <br>
-
-
-Jäseneksi
-=========
-
-Yhdistys ei ole mitään ilman jäseniä. Yhdistyksen varsinaiseksi jäseneksi voi liittyä kuka vain. <br>
-[Jäsenhakemus](http://tarlab.fi/join/) 
-
- <br>
-
-Jäsenmaksut
-===========
-
- - Jäsenmaksu ilman avainta 40e/vuosi
- - Avainmaksu 110e/vuosi (avain ja jäsenyys yhteensä siis 150e/vuosi)
-  
  <br>
 
 Toimintaa tukemassa
